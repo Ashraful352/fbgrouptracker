@@ -1,0 +1,6 @@
+{
+  "name": "GroupPulse 24h",
+  "description": "High-speed 24-hour real-time monitoring and popup alert dashboard for 260+ Facebook SEO and marketing groups with automatic expiration cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
